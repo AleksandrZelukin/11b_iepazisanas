@@ -3,3 +3,8 @@ a = 0
 for i in range(1,100):
   print(a)
   a +=i
+
+
+
+
+print("es gribu est")
